@@ -7,7 +7,7 @@ function Product() {
         <p>The lean startup</p>
         <p className="product__price"><small>$</small> <strong>19.99</strong></p>
           <div className="product__rating">
-            <p className="star">:smile</p>
+            <p className="star">*</p>
         </div>
       </div>
 
